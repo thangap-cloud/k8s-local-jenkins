@@ -1,0 +1,3 @@
+image: "thangap05/demo-liefbit"
+tag:  "1.0"
+replicas: "2"
